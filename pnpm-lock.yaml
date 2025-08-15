@@ -2664,6 +2664,9 @@ importers:
       fast-glob:
         specifier: ^3.3.2
         version: 3.3.3
+      fs-extra:
+        specifier: ^9.0.1
+        version: 9.1.0
       html-minifier:
         specifier: ^4.0.0
         version: 4.0.0
